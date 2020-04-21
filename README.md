@@ -17,7 +17,7 @@ __Windows Registry Hex to String Converter:__
 https://gchq.github.io/CyberChef/#recipe=From_Hex('Comma')Decode_text%28'UTF-16LE%20(1200)'%29
 
 __Number Westernizer:__  
-(converts number graphemes of all other writing systems to ours, like ٠١٢٣٤٥٦٧٨٩ becomes 0123456789)
+(converts number graphemes of all other writing systems to ours, like ٠١٢٣٤٥٦٧٨٩ becomes 0123456789)  
 INSERT LINK
 
 *__Updated: 2020-04-21__*
