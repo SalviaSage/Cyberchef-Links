@@ -20,4 +20,22 @@ __Number Westernizer:__
 (converts number graphemes of all other writing systems to ours, like ٠١٢٣٤٥٦٧٨٩ becomes 0123456789)  
 INSERT LINK
 
+__Devanagri to TPA Transliterator:__  
+INSERT LINK
+
+__Gurmukhi to TPA Transliterator:__  
+INSERT LINK
+
+__Gujarati to TPA Transliterator:__  
+INSERT LINK
+
+__Arabic to TPA Transliterator:__  
+INSERT LINK
+
+__Katakana to TPA Transliterator:__  
+INSERT LINK
+
+__Hiragana to TPA Transliterator:__  
+INSERT LINK
+
 *__Updated: 2020-04-21__*
