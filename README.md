@@ -25,6 +25,9 @@ https://gchq.github.io/CyberChef/#recipe=From_Hex%28%27Auto%27%29Find_/_Replace%
 __Double Byte Hex to Single Byte Hex Converter:__  
 https://regexr.com/59hev
 
+__URL Parser:__
+https://regexr.com/3ok5o
+
 __Number Westernizer:__  
 (converts number graphemes of all other writing systems to ours, like ٠١٢٣٤٥٦٧٨٩ becomes 0123456789)  
 INSERT LINK
