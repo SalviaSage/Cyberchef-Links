@@ -33,6 +33,7 @@ __Number Westernizer:__
 https://gchq.github.io/CyberChef/#recipe=Substitute('%E0%A5%A6%E0%A5%A7%E0%A5%A8%E0%A5%A9%E0%A5%AA%E0%A5%AB%E0%A5%AC%E0%A5%AD%E0%A5%AE%E0%A5%AF','0123456789')Substitute('%DB%B0%DB%B1%DB%B2%DB%B3%DB%B4%DB%B5%DB%B6%DB%B7%DB%B8%DB%B9','0123456789')
 
 __Small Caps Converter:__  
+(converts small case and capital case letters to "small caps" letters.)
 https://gchq.github.io/CyberChef/#recipe=Substitute('ABCDEFGHIJKLMNOPRSTUVWXYZ','%E1%B4%80%CA%99%E1%B4%84%E1%B4%85%E1%B4%87%EA%9C%B0%C9%A2%CA%9C%C9%AA%E1%B4%8A%E1%B4%8B%CA%9F%E1%B4%8D%C9%B4%E1%B4%8F%E1%B4%98%CA%80%EA%9C%B1%E1%B4%9B%E1%B4%9C%E1%B4%A0%E1%B4%A1x%CA%8F%E1%B4%A2')Substitute('abcdefghijklmnoprstuvwxyz','%E1%B4%80%CA%99%E1%B4%84%E1%B4%85%E1%B4%87%EA%9C%B0%C9%A2%CA%9C%C9%AA%E1%B4%8A%E1%B4%8B%CA%9F%E1%B4%8D%C9%B4%E1%B4%8F%E1%B4%98%CA%80%EA%9C%B1%E1%B4%9B%E1%B4%9C%E1%B4%A0%E1%B4%A1x%CA%8F%E1%B4%A2')Find_/_Replace(%7B'option':'Simple%20string','string':'Q'%7D,'%E1%B4%8F%CC%96',true,true,true,false)
 
 __Small Caps Deconverter:__  
