@@ -25,10 +25,15 @@ https://gchq.github.io/CyberChef/#recipe=From_Hex%28%27Auto%27%29Find_/_Replace%
 __Double Byte Hex to Single Byte Hex Converter:__  
 https://regexr.com/59hev
 
-__URL Parser:__
+__URL Parser:__  
 https://regexr.com/3ok5o
 
 __Number Westernizer:__  
 (converts number graphemes of all other writing systems to ours, like ٠١٢٣٤٥٦٧٨٩ becomes 0123456789)  
 INSERT LINK
 
+__Small Caps Converter:__  
+https://gchq.github.io/CyberChef/#recipe=Substitute('ABCDEFGHIJKLMNOPRSTUVWXYZ','%E1%B4%80%CA%99%E1%B4%84%E1%B4%85%E1%B4%87%EA%9C%B0%C9%A2%CA%9C%C9%AA%E1%B4%8A%E1%B4%8B%CA%9F%E1%B4%8D%C9%B4%E1%B4%8F%E1%B4%98%CA%80%EA%9C%B1%E1%B4%9B%E1%B4%9C%E1%B4%A0%E1%B4%A1x%CA%8F%E1%B4%A2')Substitute('abcdefghijklmnoprstuvwxyz','%E1%B4%80%CA%99%E1%B4%84%E1%B4%85%E1%B4%87%EA%9C%B0%C9%A2%CA%9C%C9%AA%E1%B4%8A%E1%B4%8B%CA%9F%E1%B4%8D%C9%B4%E1%B4%8F%E1%B4%98%CA%80%EA%9C%B1%E1%B4%9B%E1%B4%9C%E1%B4%A0%E1%B4%A1x%CA%8F%E1%B4%A2')Find_/_Replace(%7B'option':'Simple%20string','string':'Q'%7D,'%E1%B4%8F%CC%96',true,true,true,false)
+
+__Small Caps Deconverter:__  
+INSERT LINK
