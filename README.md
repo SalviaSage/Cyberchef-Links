@@ -13,10 +13,10 @@ https://gchq.github.io/CyberChef/#recipe=Find_/_Replace%28%7B'option':'Extended%
 __Windows Registry Hex to String Converter:__  
 https://gchq.github.io/CyberChef/#recipe=From_Hex('Comma')Decode_text%28'UTF-16LE%20(1200)'%29
 
-__String to Hex Converter:__
+__String to Hex Converter:__  
 https://gchq.github.io/CyberChef/#recipe=To_Hex('Space',0)
 
-__Hex to String Converter:__
+__Hex to String Converter:__  
 https://gchq.github.io/CyberChef/#recipe=From_Hex('Auto')
 
 __Single Byte Hex to Double Byte Hex Converter:__  
