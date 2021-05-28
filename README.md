@@ -26,6 +26,7 @@ __Double Byte Hex to Single Byte Hex Converter:__
 https://regexr.com/59hev
 
 __URL Parser:__  
+(This helps in seeing and identifying the different parts of a URL)  
 https://regexr.com/3ok5o
 
 __Number Westernizer:__  
@@ -36,5 +37,17 @@ __Small Caps Converter:__
 (converts small case and capital case letters to "small caps" letters.)
 https://gchq.github.io/CyberChef/#recipe=Substitute('ABCDEFGHIJKLMNOPRSTUVWXYZ','%E1%B4%80%CA%99%E1%B4%84%E1%B4%85%E1%B4%87%EA%9C%B0%C9%A2%CA%9C%C9%AA%E1%B4%8A%E1%B4%8B%CA%9F%E1%B4%8D%C9%B4%E1%B4%8F%E1%B4%98%CA%80%EA%9C%B1%E1%B4%9B%E1%B4%9C%E1%B4%A0%E1%B4%A1x%CA%8F%E1%B4%A2')Substitute('abcdefghijklmnoprstuvwxyz','%E1%B4%80%CA%99%E1%B4%84%E1%B4%85%E1%B4%87%EA%9C%B0%C9%A2%CA%9C%C9%AA%E1%B4%8A%E1%B4%8B%CA%9F%E1%B4%8D%C9%B4%E1%B4%8F%E1%B4%98%CA%80%EA%9C%B1%E1%B4%9B%E1%B4%9C%E1%B4%A0%E1%B4%A1x%CA%8F%E1%B4%A2')Find_/_Replace(%7B'option':'Simple%20string','string':'Q'%7D,'%E1%B4%8F%CC%96',true,true,true,false)
 
-__Small Caps Deconverter:__  
+__Small Caps to Small Case Converter:__  
 INSERT LINK
+
+__Roman Numeral Converter:__  
+https://www.calculatorsoup.com/calculators/conversions/roman-numeral-converter.php#:~:text=Roman%20numerals%20are%20a%20number%20system%20developed%20in,3%2C999%20use%20the%20table%20below%20for%20converter%20inputs.
+
+__Roman Numeral Date Converter:__  
+https://www.calculatorsoup.com/calculators/conversions/roman-numeral-date-converter.php
+
+__Numbers to Words Converter:__  
+https://www.calculatorsoup.com/calculators/conversions/numberstowords.php
+
+__Number and Words Standard Notation Converter:__  
+https://www.calculatorsoup.com/calculators/math/number-word-notation-to-standard.php
