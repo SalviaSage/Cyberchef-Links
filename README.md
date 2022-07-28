@@ -51,3 +51,6 @@ https://www.calculatorsoup.com/calculators/conversions/numberstowords.php
 
 __Number and Words Standard Notation Converter:__  
 https://www.calculatorsoup.com/calculators/math/number-word-notation-to-standard.php
+
+__Half Width & Full Width Converter (commas, parentheses and apostrophes):__  
+https://dencode.com/en/string/character-width
