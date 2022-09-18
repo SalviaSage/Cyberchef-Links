@@ -31,7 +31,7 @@ https://regexr.com/3ok5o
 
 __Number Westernizer:__  
 (converts number graphemes of all other writing systems to ours, like ٠١٢٣٤٥٦٧٨٩ becomes 0123456789)  
-https://gchq.github.io/CyberChef/#recipe=Substitute('%E0%A5%A6%E0%A5%A7%E0%A5%A8%E0%A5%A9%E0%A5%AA%E0%A5%AB%E0%A5%AC%E0%A5%AD%E0%A5%AE%E0%A5%AF','0123456789')Substitute('%DB%B0%DB%B1%DB%B2%DB%B3%DB%B4%DB%B5%DB%B6%DB%B7%DB%B8%DB%B9','0123456789')
+https://gchq.github.io/CyberChef/#recipe=Comment('Bengali')Substitute('%E0%A7%A6%E0%A7%A7%E0%A7%A8%E0%A7%A9%E0%A7%AA%E0%A7%AB%E0%A7%AC%E0%A7%AD%E0%A7%AE%E0%A7%AF','0123456789')Comment('Gurmukhi')Substitute('%E0%A9%A6%E0%A9%A7%E0%A9%A8%E0%A9%A9%E0%A9%AA%E0%A9%AB%E0%A9%AC%E0%A9%AD%E0%A9%AE%E0%A9%AF','0123456789')Comment('Gujarati')Substitute('%E0%AB%A6%E0%AB%A7%E0%AB%A8%E0%AB%A9%E0%AB%AA%E0%AB%AB%E0%AB%AC%E0%AB%AD%E0%AB%AE%E0%AB%AF','0123456789')Comment('Devanagari')Substitute('%E0%A5%A6%E0%A5%A7%E0%A5%A8%E0%A5%A9%E0%A5%AA%E0%A5%AB%E0%A5%AC%E0%A5%AD%E0%A5%AE%E0%A5%AF','0123456789')Comment('Arabic-Persian')Substitute('%D9%A0%DB%B1%DB%B2%DB%B3%D9%A4%D9%A5%D9%A6%DB%B7%DB%B8%DB%B9%DB%B4%DB%B5%DB%B6%D9%AB%D8%8C%D9%AC','0123456789456.,,')
 
 __Small Caps Converter:__  
 (converts lower case and upper case letters to "small caps" letters.)
