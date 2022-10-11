@@ -54,3 +54,7 @@ https://www.calculatorsoup.com/calculators/math/number-word-notation-to-standard
 
 __Half Width & Full Width Converter (commas, parentheses and apostrophes):__  
 https://dencode.com/en/string/character-width
+
+__Small Case to Capital Case Converter for the Greek Alphabet:__  
+(converts lower case greek letters to capital greek letters.)
+https://gchq.github.io/CyberChef/#recipe=Comment('Small%20Case%20to%20Capital%20Case%20Converter%5Cn(Greek%20Alphabet)')Substitute('%CE%B1%CE%B2%CE%B3%CE%B4%CE%B5%CE%B6%CE%B7%CE%B8%CE%B9%CE%BA%CE%BB%CE%BC%CE%BD%CE%BE%CE%BF%CF%80%CF%81%CF%83%CF%82%CF%84%CF%85%CF%86%CF%87%CF%88%CF%89%CE%AC%CE%AD%CE%AE%CE%AF%CF%8C%CF%8D%CF%8E%CF%8A','%CE%91%CE%92%CE%93%CE%94%CE%95%CE%96%CE%97%CE%98%CE%99%CE%9A%CE%9B%CE%9C%CE%9D%CE%9E%CE%9F%CE%A0%CE%A1%CE%A3%CE%A3%CE%A4%CE%A5%CE%A6%CE%A7%CE%A8%CE%A9%CE%86%CE%88%CE%89%CE%8A%CE%8C%CE%8E%CE%8F%CE%AA')
