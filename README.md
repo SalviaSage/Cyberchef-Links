@@ -37,8 +37,15 @@ __Small Caps Converter:__
 (converts lower case and upper case letters to "small caps" letters.)
 https://gchq.github.io/CyberChef/#recipe=Comment('Upper%20Case%20/%20Lower%20Case%5CnSmall%20Caps%20Converter')Substitute('ABCDEFGHIJKLMNOPQRSTUVWXYZ','%E1%B4%80%CA%99%E1%B4%84%E1%B4%85%E1%B4%87%EA%9C%B0%C9%A2%CA%9C%C9%AA%E1%B4%8A%E1%B4%8B%CA%9F%E1%B4%8D%C9%B4%E1%B4%8F%E1%B4%98%EA%9E%AF%CA%80%EA%9C%B1%E1%B4%9B%E1%B4%9C%E1%B4%A0%E1%B4%A1x%CA%8F%E1%B4%A2')Substitute('abcdefghijklmnopqrstuvwxyz','%E1%B4%80%CA%99%E1%B4%84%E1%B4%85%E1%B4%87%EA%9C%B0%C9%A2%CA%9C%C9%AA%E1%B4%8A%E1%B4%8B%CA%9F%E1%B4%8D%C9%B4%E1%B4%8F%E1%B4%98%EA%9E%AF%CA%80%EA%9C%B1%E1%B4%9B%E1%B4%9C%E1%B4%A0%E1%B4%A1x%CA%8F%E1%B4%A2')
 
+__Small Caps Converter (ALTERNATE):__  
+(converts lower case and upper case letters to "small caps" letters.)
+https://gchq.github.io/CyberChef/#recipe=Comment('Upper%20Case%20/%20Lower%20Case%5CnSmall%20Caps%20Converter')Substitute('ABCDEFGHIJKLMNOPQRSTUVWXYZ','%E1%B4%80%CA%99%E1%B4%84%E1%B4%85%E1%B4%87%EA%9C%B0%C9%A2%CA%9C%C9%AA%E1%B4%8A%E1%B4%8B%CA%9F%E1%B4%8D%C9%B4%E1%B4%8F%E1%B4%98%C7%AB%CA%80%EA%9C%B1%E1%B4%9B%E1%B4%9C%E1%B4%A0%E1%B4%A1x%CA%8F%E1%B4%A2')Substitute('abcdefghijklmnopqrstuvwxyz','%E1%B4%80%CA%99%E1%B4%84%E1%B4%85%E1%B4%87%EA%9C%B0%C9%A2%CA%9C%C9%AA%E1%B4%8A%E1%B4%8B%CA%9F%E1%B4%8D%C9%B4%E1%B4%8F%E1%B4%98%C7%AB%CA%80%EA%9C%B1%E1%B4%9B%E1%B4%9C%E1%B4%A0%E1%B4%A1x%CA%8F%E1%B4%A2')
+
 __Small Caps to Small Case Converter:__  
 https://gchq.github.io/CyberChef/#recipe=Comment('Small%20Caps%20to%20Lower%20Case%20Converter')Substitute('%E1%B4%80%CA%99%E1%B4%84%E1%B4%85%E1%B4%87%EA%9C%B0%C9%A2%CA%9C%C9%AA%E1%B4%8A%E1%B4%8B%CA%9F%E1%B4%8D%C9%B4%E1%B4%8F%E1%B4%98%EA%9E%AF%CA%80%EA%9C%B1%E1%B4%9B%E1%B4%9C%E1%B4%A0%E1%B4%A1x%CA%8F%E1%B4%A2','abcdefghijklmnopqrstuvwxyz')
+
+__Small Caps to Small Case Converter (ALTERNATE):__  
+https://gchq.github.io/CyberChef/#recipe=Comment('Small%20Caps%20to%20Lower%20Case%20Converter')Substitute('%E1%B4%80%CA%99%E1%B4%84%E1%B4%85%E1%B4%87%EA%9C%B0%C9%A2%CA%9C%C9%AA%E1%B4%8A%E1%B4%8B%CA%9F%E1%B4%8D%C9%B4%E1%B4%8F%E1%B4%98%C7%AB%CA%80%EA%9C%B1%E1%B4%9B%E1%B4%9C%E1%B4%A0%E1%B4%A1x%CA%8F%E1%B4%A2','abcdefghijklmnopqrstuvwxyz')
 
 __Roman Numeral Converter:__  
 https://www.calculatorsoup.com/calculators/conversions/roman-numeral-converter.php#:~:text=Roman%20numerals%20are%20a%20number%20system%20developed%20in,3%2C999%20use%20the%20table%20below%20for%20converter%20inputs.
